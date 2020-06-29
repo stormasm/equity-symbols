@@ -1,4 +1,10 @@
 
+[stocks.py](https://gist.github.com/tristanwietsma/7227411)
+
+[symbol screener](https://www.nasdaq.com/market-activity/stocks/screener)
+
+[nasdaq 100](https://www.nasdaq.com/market-activity/quotes/nasdaq-ndx-index)
+
 ## List of equity symbol resources
 
 * [datahub.io](https://datahub.io/core/nyse-other-listings)
