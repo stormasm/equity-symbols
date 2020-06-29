@@ -1,4 +1,6 @@
 
+[nasdaq trader](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs)
+
 [nasdaq ftp](https://quant.stackexchange.com/questions/1640/where-to-download-list-of-all-common-stocks-traded-on-nyse-nasdaq-and-amex)
 
 [stocks.py](https://gist.github.com/tristanwietsma/7227411)
