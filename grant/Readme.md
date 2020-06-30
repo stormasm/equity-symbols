@@ -1,6 +1,7 @@
 
 ### Nasdaq Indices
 
+http://www.beatthemarketanalyzer.com/blog/nasdaq-100-stock-tickers-list/
 http://www.beatthemarketanalyzer.com/blog/nasdaq-index-stock-tickers-list/
 
 ### Russell Indices
